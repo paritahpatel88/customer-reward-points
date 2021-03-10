@@ -12,3 +12,4 @@ if (data.purchaseValue >= 50 && data.purchaseValue < 100) {
       // To calculate total points for a particular month
       totalPointsForTheMonth =
         pointsFor50DollarsPurchase + pointsFor100DollarsPurchase;
+changes...
